@@ -11,10 +11,10 @@
 <h1>Visão geral</>
 
    <h2>O Desafio</h2>
-  <li>Este projeto faz parte do curso "HTML e CSS: responsividade com mobile-first", que constroi uma página de uma empresa de venda de livros do grupo Alura, de livros técnicos.Os usuários devem ser capazes de navegar pela página da loja de livros, utilizando qualquer dispositivo móvel.</li>
+  <li>Este projeto faz parte do curso "HTML e CSS: responsividade com mobile-first", que constroi uma página de uma empresa de venda de livros do grupo Alura, de livros técnicos. Os usuários devem ser capazes de navegar pela página da loja de livros, utilizando qualquer dispositivo móvel.</li>
   
  
 <h1>Meu processo</>
   <h2>Aprendizados</h2>
   
-  <li> Aprendi a iniciar um projeto front end, com a base do HTML, utilizar variáveis CSS e também utilizar informações do Figma.</p>
+  <li> Aprendi a iniciar um projeto front end, com a base do HTML, utilizar variáveis e seletores CSS Flex-Box e, também utilizar informações do Figma.</p>
