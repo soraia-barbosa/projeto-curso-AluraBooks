@@ -8,7 +8,7 @@
 }
 
 span.cabeçalho__menu-hamburguer {
-    margin-right: 2.5em;
+    /* margin-right: 2.5em; */
     margin-bottom: 0.5em;
 }
 
@@ -19,6 +19,7 @@ span.cabeçalho__menu-hamburguer {
     align-items: center;
     position: relative;
 }
+
 
 .container__imagem {
     padding: 1em;
@@ -44,6 +45,7 @@ span.cabeçalho__menu-hamburguer {
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
@@ -52,4 +54,8 @@ span.cabeçalho__menu-hamburguer {
     -webkit-text-fill-color: transparent; 
     background-clip: text;
     text-transform: uppercase;
+}
+
+.container__botão {
+    display: none;
 }
