@@ -17,4 +17,14 @@
 <h1>Meu processo</>
   <h2>Aprendizados</h2>
   
-  <li> Aprendi a iniciar um projeto front end, com a base do HTML, utilizar variáveis e seletores CSS Flex-Box e, também utilizar informações do Figma.</p>
+  <li>Aprendi a iniciar um projeto Front-End, com a base do HTML, a partir de um layout do Figma.</p>
+  </li>
+  <li>Porque utilizar "reset.css" e "normalize.css".</li>
+  <li>Porque utilizar "@import url(“”)" (reudzir o número de "links stylesheet" e otimizar o carregamento da pagina pelo usuário).</li>
+  <li>Utilização dos seletores: "in-line block, input type checkbox, label, checked, position, padding, color, background-clip, webkit, text-transform";</li>
+  <li>Utilização do combinador CSS: "~";</li>
+  <li>Utilização de "var()" para aplicação da estilização em vários elementos;</li>
+  <li>Propriedades do CSS Flex-box;</li>
+
+
+
