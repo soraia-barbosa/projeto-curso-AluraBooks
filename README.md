@@ -20,11 +20,15 @@
   <li>Aprendi a iniciar um projeto Front-End, com a base do HTML, a partir de um layout do Figma.</p>
   </li>
   <li>Porque utilizar "reset.css" e "normalize.css".</li>
-  <li>Porque utilizar "@import url(“”)" (reudzir o número de "links stylesheet" e otimizar o carregamento da pagina pelo usuário).</li>
-  <li>Utilização dos seletores: "in-line block, input type checkbox, label, checked, position, padding, color, background-clip, webkit, text-transform";</li>
   <li>Utilização do combinador CSS: "~";</li>
   <li>Utilização de "var()" para aplicação da estilização em vários elementos;</li>
-  <li>Propriedades do CSS Flex-box;</li>
+  <li>Propriedades do CSS Flex-box: transformar elementos em flex-containers e flex-items com FlexBox;
+  </li>
+  <li>Associar arquivos CSS através do @import;</li>
+  <li>Desenvolver um menu hambúrguer interativo com HTML e CSS;</li>
+  <li>Position relative e absolute;</li>
+  <li>Importar e usar fontes do google fonts;</li>
+  <li>Editar input e seu placeholder.</li>
 
 
 

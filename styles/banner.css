@@ -29,5 +29,9 @@
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
-    background-image: url("../images/");
+    color: var(--branco);
+    text-align: center;
+    background: url("../images/Vector.png") no-repeat;
+    background-position: 1em;
+    
 }

@@ -7,10 +7,10 @@
     margin-left: 1.5em;
 }
 
-span.cabeçalho__menu-hamburguer {
+/*span.cabeçalho__menu-hamburguer {
     /* margin-right: 2.5em; */
-    margin-bottom: 0.5em;
-}
+    
+
 
 .cabeçalho {
     background-color: var(--branco);
@@ -23,14 +23,13 @@ span.cabeçalho__menu-hamburguer {
 
 .container__imagem {
     padding: 1em;
-
 }
 
 .lista-menu {
-    display: none; 
+    display: none;
     position: absolute;
     top: 100%;
-    width: 65vw;
+    width: 50vw;
 }
 
 .container__botão:checked~.lista-menu {

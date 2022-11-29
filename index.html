@@ -8,8 +8,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css/>
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href=>
+    
 </head>
 <body>
     <header class="cabeçalho">
@@ -28,12 +29,12 @@
 
 
         </ul>
-           <img src="images/Logo.svg" alt="Logo da ALurabooks">
+           <img src="images/logo_figma.png" alt="Logo da ALurabooks">
         </div>
         <div class="container">
-        <a href="#"><img src="images/Favoritos.svg" alt="Meus Favoritos" class="container__imagem"></a>
-        <a href="#"><img src="images/Compras.svg" alt="Carrinho de Compras" class="container__imagem"></a>
-        <a href="#"><img src="images/Usuário.svg" alt="Meu Perfil"class="container__imagem"></a>
+        <a href="#"><img src="images/favoritos_figma.png" alt="Meus Favoritos" class="container__imagem"></a>
+        <a href="#"><img src="images/Sacola - Copia.png" alt="Carrinho de Compras" class="container__imagem"></a>
+        <a href="#"><img src="images/usuario_figma.png" alt="Meu Perfil"class="container__imagem"></a>
         </div>
 
 </header>
@@ -42,8 +43,32 @@
     <h2 class="banner__titulo">Já sabe por onde começar?</h2>
     <p class="banner__texto">Encontre em nossa estante o que você precisa para seu desenvolvimento!</p>
     <input type="search" class="banner__pesquisa" placeholder="Qual será sua próxima leitura?">
-
 </section>
+
+<section class="carrossel">
+    <h2 class="carrossel__titulo">Novos lançamentos</h2>
+    <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+          <!-- Slides -->
+          <div class="swiper-slide">Slide 1</div>
+          <div class="swiper-slide">Slide 2</div>
+          <div class="swiper-slide">Slide 3</div>
+          ...
+        </div>
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+      
+        <!-- If we need navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      
+        <!-- If we need scrollbar -->
+        <div class="swiper-scrollbar"></div>
+      </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 </body>
 
 </html>
