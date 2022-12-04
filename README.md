@@ -28,6 +28,8 @@
   <li>Desenvolver um menu hambúrguer interativo com HTML e CSS;</li>
   <li>Position relative e absolute;</li>
   <li>Importar e usar fontes do google fonts;</li>
+  <li>Aplicar plugins externos através de CDN;</li>
+  <li>Utilizar o plugin SwiperJS;</li>
   <li>Editar input e seu placeholder.</li>
 
 
