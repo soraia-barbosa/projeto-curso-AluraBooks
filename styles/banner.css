@@ -32,6 +32,18 @@
     color: var(--branco);
     text-align: center;
     background: url("../images/Vector.png") no-repeat;
-    background-position: 1em;
-    
+    background-position: 0.3em;
+}
+
+@media screen and (min-width: 1024px){
+    .banner__titulo{
+        font-size: 36px;
+    }
+
+    .banner__pesquisa::placeholder{
+        width: 100%;
+        background-position: 23em;
+        
+    }
+
 }
