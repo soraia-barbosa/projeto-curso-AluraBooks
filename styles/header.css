@@ -79,7 +79,7 @@
 
     .container__titulo{
         font-weight: 400;
-        display: block;
+        display: inline-block;
     }
 
     .container__titulo--negrito{
