@@ -16,7 +16,7 @@
 .cabeçalho {
     background-color: var(--branco);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     position: relative;
 }
@@ -62,6 +62,7 @@
 
 .container__titulo{
     display: none;
+    margin-left: 0.5em;
 }
 
 .opções{
