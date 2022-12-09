@@ -31,6 +31,10 @@
   <li>Aplicar plugins externos através de CDN;</li>
   <li>Utilizar o plugin SwiperJS;</li>
   <li>Editar input e seu placeholder.</li>
+  <li>Usar media queries;</li>
+  <li>Aplicar diferentes estilos para diferentes tamanhos de tela;</li>
+  <li>Retirar elementos da tela;</li>
+  <li>Aplicar elementos na tela de acordo com o tamanho do dispositivo.</li>
 
 
 
