@@ -69,6 +69,10 @@
     display: none;
 }
 
+.container__texto{
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
 
     
@@ -115,5 +119,41 @@
 
     .opções-botão{
         display: none;
+    }
+}
+
+@media screen and (min-width: 1728px){
+
+    .logo{
+        padding-left: 1em;
+    }
+
+    .container{
+        display: flex;
+        align-items: center;
+    }
+
+    .container__imagem{
+        padding-right: 0.3em;
+    }
+
+    .container__imagem__perfil{
+        padding-right: 0.7em;
+    }
+
+    .container__link{
+        display: inline-flex;
+        padding: 1em;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+
+    .opções{
+        margin-right: auto;
+    }
+
+    .container__texto{
+        display: block;
     }
 }
