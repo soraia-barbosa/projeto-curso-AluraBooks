@@ -115,7 +115,12 @@
 }
 
 @media screen and (min-width: 1728px) {
+ 
+    
     .carrossel__container{
-        display: flex;
-    }
+    display: flex;
+    flex-direction: row;
+    margin: O 20vw 3em 20vw;
+  }
+
 }
