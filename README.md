@@ -17,7 +17,11 @@
 <h1>Meu processo</>
   <h2>Aprendizados</h2>
   
+<<<<<<< HEAD
   <li>Aprendi a iniciar um projeto Front-End, com a base do HTML, a partir de um layout do Figma.</li>
+=======
+  <li>Aprendi a iniciar um projeto Front-End, com a base do HTML, a partir de um layout do Figma.</p></li>
+>>>>>>> cd257d32ab821159950b188eb2fa1ac71f26cd95
   <li>Porque utilizar "reset.css" e "normalize.css".</li>
   <li>Utilização do combinador CSS: "~".</li>
   <li>Utilização de "var()" para aplicação da estilização em vários elementos.</li>
