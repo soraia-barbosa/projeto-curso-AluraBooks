@@ -67,9 +67,10 @@
     margin-left: 0.5em;
 }
 
-#usuario {
-    margin: 1em;
+.container__imagem__perfil{
+    margin-bottom: 1em;
 }
+
 
 .opções{
     display: none;
@@ -159,6 +160,8 @@
     }
 
     .container__imagem__perfil{
+        
+        margin-top: 0.9em;
         padding-right: 0.7em;
     }
 
@@ -179,4 +182,3 @@
     }
 }
 
-.container {}
