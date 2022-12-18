@@ -17,8 +17,7 @@
 <h1>Meu processo</>
   <h2>Aprendizados</h2>
   
-  <li>Aprendi a iniciar um projeto Front-End, com a base do HTML, a partir de um layout do Figma.</p>
-  </li>
+  <li>Aprendi a iniciar um projeto Front-End, com a base do HTML, a partir de um layout do Figma.</li>
   <li>Porque utilizar "reset.css" e "normalize.css".</li>
   <li>Utilização do combinador CSS: "~".</li>
   <li>Utilização de "var()" para aplicação da estilização em vários elementos.</li>
@@ -37,5 +36,6 @@
   <li>Aplicar elementos na tela de acordo com o tamanho do dispositivo.</li>
   <li>Aplicar estilos com media queries diferentes.</li>
   <li>Usar estilos diferentes no mesmo elemento com pseudo-classes.</li>
+  <li>Corrigir erros de estilização por meio do "id".</li>
 
 

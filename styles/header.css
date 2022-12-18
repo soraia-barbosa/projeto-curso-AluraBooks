@@ -67,6 +67,10 @@
     margin-left: 0.5em;
 }
 
+#usuario {
+    margin: 1em;
+}
+
 .opções{
     display: none;
 }
@@ -174,3 +178,5 @@
         display: block;
     }
 }
+
+.container {}
